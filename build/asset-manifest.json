@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74775a39.chunk.css",
+    "main.js": "/static/js/main.a69def1f.chunk.js",
+    "main.js.map": "/static/js/main.a69def1f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.34bdbe63.chunk.css": "/static/css/2.34bdbe63.chunk.css",
+    "static/js/2.d6b2b4f0.chunk.js": "/static/js/2.d6b2b4f0.chunk.js",
+    "static/js/2.d6b2b4f0.chunk.js.map": "/static/js/2.d6b2b4f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b2328441030a3988f51acf2a0abecc92.js": "/precache-manifest.b2328441030a3988f51acf2a0abecc92.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.34bdbe63.chunk.css.map": "/static/css/2.34bdbe63.chunk.css.map",
+    "static/css/main.74775a39.chunk.css.map": "/static/css/main.74775a39.chunk.css.map",
+    "static/js/2.d6b2b4f0.chunk.js.LICENSE.txt": "/static/js/2.d6b2b4f0.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/burger.jpg": "/static/media/burger.3fd59ad9.jpg",
+    "static/media/chicken.jpg": "/static/media/chicken.a9bd31e0.jpg",
+    "static/media/dessert.jpg": "/static/media/dessert.4983c451.jpg",
+    "static/media/i1.jpg": "/static/media/i1.c23aa164.jpg",
+    "static/media/i2.jpg": "/static/media/i2.618dd344.jpg",
+    "static/media/i3.jpg": "/static/media/i3.ca055aa3.jpg",
+    "static/media/i4.jpg": "/static/media/i4.35500da0.jpg",
+    "static/media/i5.jpg": "/static/media/i5.3f4b27ac.jpg",
+    "static/media/i6.jpg": "/static/media/i6.d78bd27d.jpg",
+    "static/media/logo.png": "/static/media/logo.1c8e50f1.png",
+    "static/media/meals.jpg": "/static/media/meals.1e4514b9.jpg",
+    "static/media/pasta.jpg": "/static/media/pasta.d671a117.jpg",
+    "static/media/pizza.jpg": "/static/media/pizza.af95388f.jpg",
+    "static/media/shakes.jpg": "/static/media/shakes.50e5d3da.jpg",
+    "static/media/App.css": "/static/media/showcase2.e606af8b.jpg",
+    "static/media/veg.jpg": "/static/media/veg.0fe0c4e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.34bdbe63.chunk.css",
+    "static/js/2.d6b2b4f0.chunk.js",
+    "static/css/main.74775a39.chunk.css",
+    "static/js/main.a69def1f.chunk.js"
+  ]
+}
